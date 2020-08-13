@@ -21,5 +21,5 @@ make
 
 本仓库采用imx6ull开发板 挂载的是icm20608驱动读取传感器数据
 
-![image-20200813230010489](.\7.png)
+![image-20200813230010489](https://github.com/yychdu/ARM-web-server/blob/master/7.png)
 
